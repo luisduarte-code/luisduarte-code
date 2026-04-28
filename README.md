@@ -26,7 +26,7 @@
 ### ⌨️ Linguagens e tecnologias
 
 <p>
-<a><img src="https://skillicons.dev/icons?i=html,css,cs,c" height="40"></a>
+<a><img src="https://skillicons.dev/icons?i=html,css,cs,c,js" height="40"></a>
 </p>
 
 
