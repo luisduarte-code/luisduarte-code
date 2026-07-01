@@ -3,7 +3,7 @@
 ##### Me chamo Luís Duarte, tenho 18 anos. Concluí o Ensino Médio Técnico em Informática no IFFar – Campus Panambi. Atualmente, estou cursando Sistemas para Internet no IFFar. Tenho grande interesse pela área de tecnologia e estou sempre buscando evoluir meus conhecimentos em desenvolvimento e programação.
 ---
 #### 🎯 Minhas estatísticas 
-![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=luisduarte-code&theme=github_dark&icons=true&logo=github)
+![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=luisduarte-code&theme=github_dark&icons=true)
 ![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=luisduarte-code&theme=github_dark)
 
 
